@@ -1,2 +1,2 @@
 # rsschool-cv
-http://127.0.0.1:5500/index.html#courses
+https://bozhena1987.github.io/rsschool-cv/
